@@ -1,0 +1,1 @@
+<?php $handshake = new mysqli("localhost", "root", "", "tpv"); ?>

@@ -1,0 +1,17 @@
+Han sido cubiertos:
+-Administrar clientes (Alta, modificación, eliminación, cambio de dirección del cliente)
+-Crear una pantalla donde se pueda realizar la compra de los productos disponibles en la tienda
+-Aparcar/restaurar compra
+-Pago en efectivo
+-Pago en paypal
+-Devoluciones
+-Emails en compras y devoluciones
+-Cambio de operario
+
+No han sido cubiertos:
+-Generar pdf
+-Generar codigo de barras
+-Ticket
+
+Incognita:
+-Framework? (He usado bootstrap a mano, supongo que se podría considerar que lo he usado).

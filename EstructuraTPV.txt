@@ -1,0 +1,4 @@
+En la carpeta "core" se encuentra el index que pone todo en marcha.
+
+En "core" tambien se encuentra el archivo dbjoin.php que es en el que se especifica la base
+de datos (user/pass/direccion).

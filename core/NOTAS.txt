@@ -1,0 +1,2 @@
+Notas: En el hosting a veces las cosas no funcionan a la velocidad adecuada y por
+ende no se refrescan, si alguna compra apracada vuelve a aparecer en el listado, refrescar.
